@@ -157,7 +157,7 @@
   <LetterTextRelicLost>{0} kaybedildi!\n\nŞu kişilerde ruh hâli düşüşü yaşanacak:\n{1}</LetterTextRelicLost>
 
   <!-- Caravan destroyed -->
-  <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded. -->
+  <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disbanded. -->
   <LetterOnlySlaveCaravanColonistsLeft>Köle olmayan tüm {0} üyeleri öldü. Kalan köleler kaçtı. Kervan dağıldı.</LetterOnlySlaveCaravanColonistsLeft>
 
   <!-- Hacker lost -->

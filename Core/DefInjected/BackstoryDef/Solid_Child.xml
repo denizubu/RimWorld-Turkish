@@ -2003,7 +2003,7 @@
   
   <!-- EN: A steward on medieval merchant ships, [PAWN_nameDef] was well-traveled on [PAWN_possessive] homeworld by [PAWN_possessive] early teens.\n\nThe constant orders from [PAWN_possessive] captain, however, fostered a defiant streak, as well as a general disaste for anything [PAWN_pronoun] considered to be busywork. -->
   <StewardsAssisant28.description>Ortaçağ tüccar gemilerinde bir kâhya olan [PAWN_nameDef], gençlik yıllarının başlarında kendi gezegenini köşe bucak dolaşmıştı.\n\nAncak kaptanının verdiği bitmek bilmeyen emirler, onun içinde hem isyankâr bir yan hem de gereksiz iş olarak gördüğü şeylere karşı genel bir hoşnutsuzluk geliştirdi.</StewardsAssisant28.description>
-  <!-- EN: Steward's assisant -->
+  <!-- EN: Steward's assistant -->
   <StewardsAssisant28.title>kâhyanın yardımcısı</StewardsAssisant28.title>
   <StewardsAssisant28.titleFemale>kâhyanın yardımcısı</StewardsAssisant28.titleFemale>
   <!-- EN: Steward -->

@@ -313,7 +313,7 @@
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Minimum beceri:</MinimumSkills>
   <!-- EN: Requires -->
-  <BillRequires>Gereken:</BillRequires>
+  <BillRequires>Gerektirir</BillRequires>
   <!-- EN: nutrition -->
   <BillNutrition>besin</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
