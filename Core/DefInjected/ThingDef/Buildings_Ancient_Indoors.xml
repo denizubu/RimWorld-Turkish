@@ -126,7 +126,7 @@
   <!-- EN: ancient stove -->
   <AncientStove.label>antik ocak</AncientStove.label>
   <!-- EN: An old stove. Smashed and rusted, it is now completely useless. -->
-  <AncientStove.description>Antik bir ocak. Parçalanmış ve paslanmış olduğundan artık tamamen işe yaramaz.</AncientStove.description>
+  <AncientStove.description>Antik bir ocak. Parçalanmış ve paslanmış olduğundan artık tamamen işe yaramaz.\n\nBuraya nasıl geldiğini söylemek zor.</AncientStove.description>
   
   <!-- EN: ancient system rack -->
   <AncientSystemRack.label>antik sistem rafı</AncientSystemRack.label>

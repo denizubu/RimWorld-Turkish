@@ -175,7 +175,7 @@
   
   <!-- EN: electrical burn -->
   <ElectricalBurn.label>elektrik yanığı</ElectricalBurn.label>
-  <!-- EN: An electical burn. -->
+  <!-- EN: An electrical burn. -->
   <ElectricalBurn.description>Bir elektrik yanığı.</ElectricalBurn.description>
   <!-- EN: electrical burn scar -->
   <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>elektrik yanığı izi</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
