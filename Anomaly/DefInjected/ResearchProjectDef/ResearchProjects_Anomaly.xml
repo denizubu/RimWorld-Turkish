@@ -322,7 +322,7 @@
   </DeathRefusal.generalRules.rulesStrings>
   
   <!-- EN: disruptor flares -->
-  <DisruptorFlares.label>engelleyici işaret fişekleri</DisruptorFlares.label>
+  <DisruptorFlares.label>sersemletici işaret fişekleri</DisruptorFlares.label>
   <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
   <DisruptorFlares.description>Bir alanı aydınlatan ve görünmez yaratıkları açığa çıkaran, biyoferrit tabanlı işaret fişeği paketleri üret.</DisruptorFlares.description>
   <!-- EN:

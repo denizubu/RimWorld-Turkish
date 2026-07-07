@@ -62,6 +62,6 @@
   <!-- EN: A junction point in the fleshmass nervous system. When destroyed, it leaves behind a lump of neural tissue that you can study. Study enough different neural lumps and you can unlock a way to kill the fleshmass heart itself. -->
   <NerveBundle.description>Etyığını sinir sisteminin bir birleşme noktası. Yok edildiğinde geride incelenebilir bir sinirsel doku yumrusu bırakır. Yeteri kadar farklı sinirsel yumru incelersen etyığını kalbin kendisini öldürmenin bir yolunu öğrenebilirsin.</NerveBundle.description>
   <!-- EN: Kill to collect: Neural lump -->
-  <NerveBundle.comps.CompInspectString.inspectString>Öldürmek için topla: Sinirsel yumru</NerveBundle.comps.CompInspectString.inspectString>
+  <NerveBundle.comps.CompInspectString.inspectString>Toplamak için öldür: Sinirsel yumru</NerveBundle.comps.CompInspectString.inspectString>
   
 </LanguageData>

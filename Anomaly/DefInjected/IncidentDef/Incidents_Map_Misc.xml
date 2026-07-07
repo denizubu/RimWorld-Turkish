@@ -56,7 +56,7 @@
   <!-- EN: Nociosphere -->
   <Nociosphere.letterLabel>Nosyoküre</Nociosphere.letterLabel>
   <!-- EN: A strange metallic sphere has appeared. It hurts to be near it.\n\nYou could attack it, though you're not sure how it might defend itself. Or, you could capture it using a holding platform and learn to make use of its power.\n\nIt seems quiet for now, but it is gaining energy over time. You can suppress the sphere when it is captured to a holding platform, reducing its energy. -->
-  <Nociosphere.letterText>Metaik garip bir küre belirdi. Yakınında olmak can yakıyor.\n\nOna saldırabilirsin fakat onun kendini nasıl savunacağından emin değilsin. Ya da, onu yakalayıp bir zincirleme platformunda tutarak onun gücünden faydalanabilirsin.\n\nŞimdilik sakin görünüyor fakat zamanla enerji kazanıyor. Onu yakalayıp hapsettiğinde baskılayarak enerjisini azaltabilirsin.</Nociosphere.letterText>
+  <Nociosphere.letterText>Metalik garip bir küre belirdi. Yakınında olmak can yakıyor.\n\nOna saldırabilirsin fakat onun kendini nasıl savunacağından emin değilsin. Ya da, onu yakalayıp bir zincirleme platformunda tutarak onun gücünden faydalanabilirsin.\n\nŞimdilik sakin görünüyor fakat zamanla enerji kazanıyor. Onu yakalayıp hapsettiğinde baskılayarak enerjisini azaltabilirsin.</Nociosphere.letterText>
   
   <!-- EN: pit gate -->
   <PitGate.label>çukur geçit</PitGate.label>

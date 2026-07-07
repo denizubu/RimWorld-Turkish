@@ -83,7 +83,7 @@
   <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
   <LetterBirthdayBiological>{0_nameFull}, biyolojik olarak {1} yaşına girdi.</LetterBirthdayBiological>
   <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
-  <BirthdayBiologicalAgeInjuries>{0_nameFull}, biyolojik olarak {1} yaşına girdi.\n\nNe yazık ki, {0_nameFull} yaşlanma nedeniyle aşağıdaki hastalıkları ortaya çıkmıştır:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>Ne yazık ki, {0_nameFull} yaşlanma nedeniyle aşağıdaki hastalıkları ortaya çıktı\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Hastalık</LetterLabelNewDisease>

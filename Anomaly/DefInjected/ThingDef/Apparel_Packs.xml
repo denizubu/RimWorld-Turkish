@@ -11,9 +11,9 @@
   <Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>ölüyaşam tozu kullan</Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>
   
   <!-- EN: disruptor flare pack -->
-  <Apparel_DisruptorFlarePack.label>engelleyici işaret fişeği paketi</Apparel_DisruptorFlarePack.label>
+  <Apparel_DisruptorFlarePack.label>sersemletici işaret fişeği paketi</Apparel_DisruptorFlarePack.label>
   <!-- EN: A utility pack that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
-  <Apparel_DisruptorFlarePack.description>Engelleyici işaret fişekleri ateşleyen bir paket. Çarpma anında işaret fişeği bir biyoferrit kapsülünü yakarak parlak bir ışık oluşturur ve psişik aksamaya sebep olur. Bu, psişik açıdan duyarlı olan yaratıkları sersemletir, görünmez olanları açığa çıkarır ve hareket hızları ile farkındalıklarını kısa süreliğine düşürür. Sonrasında işaret fişeği yanmaya devam ederek bir süreliğine geniş bir alanı aydınlatır.</Apparel_DisruptorFlarePack.description>
+  <Apparel_DisruptorFlarePack.description>Sersemletici işaret fişekleri ateşleyen bir paket. Çarpma anında işaret fişeği bir biyoferrit kapsülünü yakarak parlak bir ışık oluşturur ve psişik aksamaya sebep olur. Bu, psişik açıdan duyarlı olan yaratıkları sersemletir, görünmez olanları açığa çıkarır ve hareket hızları ile farkındalıklarını kısa süreliğine düşürür. Sonrasında işaret fişeği yanmaya devam ederek bir süreliğine geniş bir alanı aydınlatır.</Apparel_DisruptorFlarePack.description>
   <!-- EN: flare -->
   <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>işaret fişeği</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
@@ -31,13 +31,13 @@
   <Apparel_PackTurret.verbs.deploy_turret.label>taret yerleştir</Apparel_PackTurret.verbs.deploy_turret.label>
   
   <!-- EN: disruptor flare -->
-  <DisruptorFlare.label>engelleyici işaret fişeği</DisruptorFlare.label>
+  <DisruptorFlare.label>sersemletici işaret fişeği</DisruptorFlare.label>
   
   <!-- EN: deadlife capsule -->
   <Grenade_Deadlife.label>ölüyaşam kapsülü</Grenade_Deadlife.label>
   
   <!-- EN: disruptor flare -->
-  <Grenade_DisruptorFlare.label>engelleyici işaret fişeği</Grenade_DisruptorFlare.label>
+  <Grenade_DisruptorFlare.label>sersemletici işaret fişeği</Grenade_DisruptorFlare.label>
   
   <!-- EN: turret pack capsule -->
   <Grenade_TurretPack.label>taret paketi kapsülü</Grenade_TurretPack.label>

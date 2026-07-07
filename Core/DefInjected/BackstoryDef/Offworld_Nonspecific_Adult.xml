@@ -374,11 +374,11 @@
   <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] traveled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
   <Recruiter14.description>[PAWN_nameDef], hem dövüş becerileri hem de yaralılarını tedavi etmeyi reddetme uygulamalarıyla ün salmış, saygı duyulan dövüş sanatçıları tarikatının bir parçasıydı.\n\nKendi gezegenini dolaşarak, tanıştığı gençleri değerlendirmeye alır ve eğitim için uygun olup olmadıklarını belirlerdi.</Recruiter14.description>
   <!-- EN: recruiter -->
-  <Recruiter14.title>İşe alım görevlisi</Recruiter14.title>
-  <Recruiter14.titleFemale>İşe alım görevlisi</Recruiter14.titleFemale>
+  <Recruiter14.title>yetenek avcısı</Recruiter14.title>
+  <Recruiter14.titleFemale>yetenek avcısı</Recruiter14.titleFemale>
   <!-- EN: recruiter -->
-  <Recruiter14.titleShort>İşe alım görevlisi</Recruiter14.titleShort>
-  <Recruiter14.titleShortFemale>İşe alım görevlisi</Recruiter14.titleShortFemale>
+  <Recruiter14.titleShort>yetenek avcısı</Recruiter14.titleShort>
+  <Recruiter14.titleShortFemale>yetenek avcısı</Recruiter14.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
   <Slaughterer58.description>[PAWN_nameDef] geçimini sağlamak için hayvan kesti. Diğerleri bu işi pis olarak gördü ancak çok sayıda hayvanı idare etmek ve temiz bir şekilde kesmek için gereken beceriler asla basit değildi.</Slaughterer58.description>

@@ -21,8 +21,8 @@
   
   <!-- EN: duck -->
   <Duck.label>ördek</Duck.label>
-  <Duck.labelMale>suna</Duck.labelMale>
-  <Duck.labelMalePlural>sunalar</Duck.labelMalePlural>
+  <Duck.labelMale>ördek</Duck.labelMale>
+  <Duck.labelMalePlural>ördekler</Duck.labelMalePlural>
   <Duck.labelPlural>ördekler</Duck.labelPlural>
   <!-- EN: duckling -->
   <Duck.lifeStages.duckling.label>ördek yavrusu</Duck.lifeStages.duckling.label>

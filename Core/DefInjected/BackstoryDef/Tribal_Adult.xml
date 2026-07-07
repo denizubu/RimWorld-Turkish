@@ -22,11 +22,11 @@
   <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
   <Brave88.description>[PAWN_nameDef] kabile savaşlarında ikwa, balta, sopa ve diğer yakın menzilli silahları kullandı.</Brave88.description>
   <!-- EN: brave -->
-  <Brave88.title>batur</Brave88.title>
-  <Brave88.titleFemale>batur</Brave88.titleFemale>
+  <Brave88.title>bahadır</Brave88.title>
+  <Brave88.titleFemale>bahadır</Brave88.titleFemale>
   <!-- EN: brave -->
-  <Brave88.titleShort>batur</Brave88.titleShort>
-  <Brave88.titleShortFemale>batur</Brave88.titleShortFemale>
+  <Brave88.titleShort>bahadır</Brave88.titleShort>
+  <Brave88.titleShortFemale>bahadır</Brave88.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
   <Butcher40.description>[PAWN_nameDef] av grubunun hayvanları kesmekten sorumlu üyesiydi. Bıçak ustası oldu, bir karkasın değerli parçalarını kısa sürede ayırabilir hâle geldi.</Butcher40.description>

@@ -99,9 +99,9 @@
   <AllowDeadmansApparel.description>Bir zamanlar bir ceset tarafından giyilen kıyafetlere izin ver. Çoğu insan cesetlerin kıyafetlerini iğrenç bulur ve tüccarlar satın almaz.</AllowDeadmansApparel.description>
   
   <!-- EN: allow females -->
-  <AllowFemaleGender.label>kadınlara izin ver</AllowFemaleGender.label>
+  <AllowFemaleGender.label>dişilere izin ver</AllowFemaleGender.label>
   <!-- EN: Allow female individuals. -->
-  <AllowFemaleGender.description>Kadın bireylere izin verin.</AllowFemaleGender.description>
+  <AllowFemaleGender.description>Dişi bireylere izin verin.</AllowFemaleGender.description>
   
   <!-- EN: allow fresh -->
   <AllowFresh.label>tazelere izin ver</AllowFresh.label>

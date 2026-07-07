@@ -30,11 +30,11 @@
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
   <AlcoholTolerance.description>Vücudun alkole karşı geliştirdiği direnç. Tolerans miktarı ile aynı etkiyi almak için gereken alkol miktarı doğru orantılıdır.</AlcoholTolerance.description>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small.label>küçük</AlcoholTolerance.stages.small.label>
+  <AlcoholTolerance.stages.small.label>düşük</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
-  <AlcoholTolerance.stages.large.label>büyük</AlcoholTolerance.stages.large.label>
+  <AlcoholTolerance.stages.large.label>yüksek</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AlcoholTolerance.stages.massive.label>ağır</AlcoholTolerance.stages.massive.label>
+  <AlcoholTolerance.stages.massive.label>aşırı</AlcoholTolerance.stages.massive.label>
   
   <!-- EN: hangover -->
   <Hangover.label>akşamdan kalma</Hangover.label>

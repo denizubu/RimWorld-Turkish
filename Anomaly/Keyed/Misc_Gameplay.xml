@@ -374,7 +374,7 @@
   <!-- EN: Collect more gray flesh and analyze it to determine the biosignature of the threat. Then, use the surgical inspection operation to search for that biosignature. It could take a long time to collect enough samples, and the surgery is invasive. -->
   <LetterGrayFleshMethodTwo>Daha fazla gri et topla ve tehdidin biyoimzasını tespit etmek için analiz et. Daha sonra, cerrahi inceleme işlemini kullanarak bu biyoimzayı ara. Yeteri kadar örnek toplamak uzun zaman alabilir ve ameliyat bedeni açarak yapılır.</LetterGrayFleshMethodTwo>
   <!-- EN: Execute or banish whoever you suspect. -->
-  <LetterGrayFleshMethodThree>Execute or banish whoever you suspect.</LetterGrayFleshMethodThree>
+  <LetterGrayFleshMethodThree>Şüphelendiğin kişileri infaz et veya koloniden at.</LetterGrayFleshMethodThree>
   
   <!-- EN: Metalhorrors awakening -->
   <LetterMetalhorrorReawakeningLabel>Metaldehşetler uyanıryor</LetterMetalhorrorReawakeningLabel>
@@ -607,7 +607,7 @@
   <!-- EN: {PAWN_labelShort}'s cube withdrawal has worsened. -->
   <MessageGoldenCubeWithdrawalIncreased>{PAWN_labelShort} küp mahrumiyeti kötüleşti.</MessageGoldenCubeWithdrawalIncreased>
   <!-- EN: {PAWN_labelShort} has become intrigued by the golden cube. -->
-  <MessageGoldenCubeInterest>Küp {PAWN_labelShort} ilgisini cezbetti.</MessageGoldenCubeInterest>
+  <MessageGoldenCubeInterest>{PAWN_labelShort} küpe ilgi duymaya başladı.</MessageGoldenCubeInterest>
   <!-- EN: {PAWN_labelShort} is enraged that {PAWN_possessive} cube sculpture was removed. {PAWN_pronoun} might become violent. -->
   <MessageGoldenCubeSculptureDestroyed>{PAWN_labelShort} küp heykelinin ortadan kaldırılmasına çok sinirlendi. O saldırganlaşabilir.</MessageGoldenCubeSculptureDestroyed>
 

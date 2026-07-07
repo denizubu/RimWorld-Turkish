@@ -17,7 +17,7 @@
   <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
   <EntityStudyMode_MaintainOnlyDesc>Gardiyanlar bu varlık üzerinde belirli bir işlem yapmayacaklar fakat diğer etkileşimler mümkün.</EntityStudyMode_MaintainOnlyDesc>
   <!-- EN: Study -->
-  <EntityStudyMode_Study>İnceleme</EntityStudyMode_Study>
+  <EntityStudyMode_Study>İncele</EntityStudyMode_Study>
   <!-- EN: Researchers will study the entity. -->
   <EntityStudyMode_StudyDesc>Araştırmacılar varlığı inceleyecekler.</EntityStudyMode_StudyDesc>
   <!-- EN: Release -->

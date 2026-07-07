@@ -384,7 +384,7 @@
     <li>experiencesWithMonsters->[entities] ile deneyimlerini [tellsAStoryOf].</li>
     <li>experiencesWithMonsters->uzaklardaki bir [TerrainFeature] altında merkezi olan, gizli bir tarikata dair keşiflerini [tellsAStoryOf].</li>
     <li>experiencesWithMonsters->altın bir küp avını [tellsAStoryOf].</li>
-    <li>experiencesWithMonsters->arkist bir tarikatın başkölesinin rehberlik ettiği derin meditasyonları [tellsAStoryOf].</li>
+    <li>experiencesWithMonsters->arkist bir tarikatın başbendesinin rehberlik ettiği derin meditasyonları [tellsAStoryOf].</li>
     <li>experiencesWithMonsters->horax adındaki bir şeyin psişik etkisi altında dağılan hayatını [tellsAStoryOf].</li>
     <li>experiencesWithMonsters->araştırmacıların bir bir delirdiği, uzaklardaki arkeolojik bir kazıyı [tellsAStoryOf].</li>
     <li>experiencesWithMonsters->nasıl olduysa, kanasusamışlığın karanlık tanrısına hizmet eden bir tarikata dönüşen kabileyi [tellsAStoryOf].</li>

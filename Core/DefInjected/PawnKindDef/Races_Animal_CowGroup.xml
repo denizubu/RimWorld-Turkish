@@ -64,13 +64,13 @@
   <Elephant.lifeStages.elephant_calf.labelPlural>yavru filler</Elephant.lifeStages.elephant_calf.labelPlural>
   
   <!-- EN: elk -->
-  <Elk.label>alageyik</Elk.label>
+  <Elk.label>elk</Elk.label>
   <!-- EN: elk -->
-  <Elk.labelPlural>alageyikler</Elk.labelPlural>
+  <Elk.labelPlural>elkler</Elk.labelPlural>
   <!-- EN: elk calf -->
-  <Elk.lifeStages.elk_calf.label>buzağı alageyik</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.label>buzağı elk</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>buzağı alageyikler</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.elk_calf.labelPlural>buzağı elkler</Elk.lifeStages.elk_calf.labelPlural>
   
   <!-- EN: goat -->
   <Goat.label>keçi</Goat.label>

@@ -401,7 +401,7 @@
   <!-- EN: No letter -->
   <NoDietCategoryLetter>Bildirim yok</NoDietCategoryLetter>
   <!-- EN: expires in -->
-  <ExpiresIn>Sona eriyor:</ExpiresIn>
+  <ExpiresIn>Sona ermesine</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>{1_labelShort} önderliğindeki kervan</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
@@ -756,7 +756,7 @@
   <!-- EN: Roped by -->
   <RopedByPawn>Tarafından bağlandı:</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>Şuna bağlı:</RopedToThing>
+  <RopedToThing>Şuna bağlı</RopedToThing>
   <!-- EN: Roped to spot. -->
   <RopedToSpot>Noktaya bağlandı.</RopedToSpot>
   <!-- EN: Pen size -->
@@ -1501,7 +1501,7 @@
   <!-- EN: inactive -->
   <InactiveFacility>pasif</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>Bağlı:</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>Bağlı</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
   <FacilityNoPotentialLinks>Bir yapıya bağlı değil</FacilityNoPotentialLinks>
   <!-- EN: Max connected per building -->
@@ -2071,7 +2071,7 @@
   <RemovePart>Kaldır: {0}</RemovePart>
 
   <!-- EN: {GERUND} {TARGETLABEL} at -->
-  <DoWorkAtThing>{TARGETLABEL} konumunda {GERUND} başla</DoWorkAtThing>
+  <DoWorkAtThing>{TARGETLABEL} konumunda {GERUND}</DoWorkAtThing>
   <!-- EN: can be studied in {0} -->
   <CanBeStudiedInDuration>{0} içinde incelenebilir</CanBeStudiedInDuration>
   

@@ -170,9 +170,9 @@
   <DeathRefusalSickness.description>Ölüm reddinin yan etkileri. Bu kişi ölümden geri döndü.</DeathRefusalSickness.description>
   
   <!-- EN: disruptor flash -->
-  <DisruptorFlash.label>engelleyici parlama</DisruptorFlash.label>
+  <DisruptorFlash.label>sersemletici parlama</DisruptorFlash.label>
   <!-- EN: The initial psychic burst from a disruptor flare has left this creature dazed. -->
-  <DisruptorFlash.description>Engelleyici işaret fişeğinden çıkan psişik parlama bu yaratığı sersemletti.</DisruptorFlash.description>
+  <DisruptorFlash.description>Sersemletici işaret fişeğinden çıkan psişik parlama bu yaratığı sersemletti.</DisruptorFlash.description>
   
   <!-- EN: duplicate sickness -->
   <DuplicateSickness.label>klon hastalığı</DuplicateSickness.label>
@@ -307,7 +307,7 @@
   <!-- EN: revenant hypnosis -->
   <RevenantHypnosis.label>karabasan hipnozu</RevenantHypnosis.label>
   <!-- EN: This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or fire. -->
-  <RevenantHypnosis.description>Bu kişi bir karabasan tarafından hipnoz edildi ve hâlâ ona bağlı. Görünmez korkulara gözlerini kırpmadan bakarken kâbusvari yaratıklardan bahsediyor.\n\nKurbanını hipnoz ettikten sonra karabasan, kurbanıyla aynı haritada bir yerlerde uykuya yatar.\n\nKarabasanı öldürmek hipnoza son verir. Gizli bir karabasan engelleyici işaret fişekleri, patlayıcılar, EMP, yangın köpüğü veya ateş ile açığa çıkarılabilir.</RevenantHypnosis.description>
+  <RevenantHypnosis.description>Bu kişi bir karabasan tarafından hipnoz edildi ve hâlâ ona bağlı. Görünmez korkulara gözlerini kırpmadan bakarken kâbusvari yaratıklardan bahsediyor.\n\nKurbanını hipnoz ettikten sonra karabasan, kurbanıyla aynı haritada bir yerlerde uykuya yatar.\n\nKarabasanı öldürmek hipnoza son verir. Gizli bir karabasan sersemletici işaret fişekleri, patlayıcılar, EMP, yangın köpüğü veya ateş ile açığa çıkarılabilir.</RevenantHypnosis.description>
   
   <!-- EN: shard holder -->
   <ShardHolder.label>kabuk sahibi</ShardHolder.label>

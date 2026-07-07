@@ -81,10 +81,10 @@
   <!-- EN: Bir fil cesedi. -->
   <Corpse_Elephant.description>Ölü bir filin bedeni.</Corpse_Elephant.description>
   
-  <!-- EN: alageyik cesedi -->
-  <Corpse_Elk.label>alageyik cesedi</Corpse_Elk.label>
-  <!-- EN: Bir alageyik cesedi. -->
-  <Corpse_Elk.description>Ölü bir alageyiğin bedeni.</Corpse_Elk.description>
+  <!-- EN: elk cesedi -->
+  <Corpse_Elk.label>elk cesedi</Corpse_Elk.label>
+  <!-- EN: Bir elk cesedi. -->
+  <Corpse_Elk.description>Ölü bir elkin bedeni.</Corpse_Elk.description>
   
   <!-- EN: tavşan cesedi -->
   <Corpse_Hare.label>tavşan cesedi</Corpse_Hare.label>
@@ -286,10 +286,10 @@
   <!-- EN: Çiğ, kesilmiş et. Pişirilerek yemek yapılabilir veya çiğ yenebilir. -->
   <Meat_Elephant.description>Bir filin çiğ eti.</Meat_Elephant.description>
   
-  <!-- EN: alageyik eti -->
-  <Meat_Elk.label>alageyik eti</Meat_Elk.label>
+  <!-- EN: elk eti -->
+  <Meat_Elk.label>elk eti</Meat_Elk.label>
   <!-- EN: Çiğ, kesilmiş et. Pişirilerek yemek yapılabilir veya çiğ yenebilir. -->
-  <Meat_Elk.description>Bir alageyiğin çiğ eti.</Meat_Elk.description>
+  <Meat_Elk.description>Bir elkin çiğ eti.</Meat_Elk.description>
   
   <!-- EN: tavşan eti -->
   <Meat_Hare.label>tavşan eti</Meat_Hare.label>

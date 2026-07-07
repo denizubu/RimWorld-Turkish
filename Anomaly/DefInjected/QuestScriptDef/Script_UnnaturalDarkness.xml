@@ -11,7 +11,7 @@
   -->
   <UnnaturalDarkness.questContentRules.rulesStrings>
     <li>initialPhaseLetterLabel->Kararan gökyüzü</li>
-    <li>initialPhaseLetterText->Gökyüzü kararıyor. Yakında, lamba veya meşalelerle aydınlanmayan şeyleri görmek çok zorlaşacak.\n\nHayatta kalmak için iyi aydınlatılmış alanlar inşa et. Karanlığı keşfetmek için engelleyici işaret fişekleri yap.</li>
+    <li>initialPhaseLetterText->Gökyüzü kararıyor. Yakında, lamba veya meşalelerle aydınlanmayan şeyleri görmek çok zorlaşacak.\n\nHayatta kalmak için iyi aydınlatılmış alanlar inşa et. Karanlığı keşfetmek için sersemletici işaret fişekleri yap.</li>
     <li>mainPhaseLetterLabel->Olağan dışı karanlık</li>
     <li>mainPhaseLetterText->Olağan dışı bir karanlık çöküyor. Karanlıkta canavarca şeyler hareket ediyor.\n\nSivri, yağlı metalden sütunlar gökten düşüyor. Onlara bakmak korkutuyor ancak değerli bir teknoloji içerdikleri kesin. İyi aydınlatılmış yollar yaparak onlara ulaş ve onları yok ederek bu kâbusa bir son ver.\n\nBunun yanında, eğer yeteri kadar hayatta kalırsan, karanlık kendiliğinden dağılacak.</li>
     <li>darknessLiftedLetterLabel->Karanlık kalkıyor</li>
