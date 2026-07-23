@@ -191,9 +191,9 @@
   </RocketswarmLauncher.generalRules.rulesStrings>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>uranyum gülle tareti</SniperTurret.label>
+  <SniperTurret.label>uranyum kurşun tareti</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
-  <SniperTurret.description>Zırh delici uranyum gülleler atan bir taret üret. Çelastiği bile kağıt gibi yırtan uranyum gülleler atar ama yakın mesafede etkisi azalır.</SniperTurret.description>
+  <SniperTurret.description>Zırh delici uranyum kurşunlar atan bir taret üret. Çelastiği bile kağıt gibi yırtan uranyum kurşunlar atar ama yakın mesafede etkisi azalır.</SniperTurret.description>
   <!-- EN:
     <li>subject->sniper turrets</li>
     <li>subject_story->led the clean-up after the war, collecting spent radioactive uranium slugs from the front line</li>
@@ -203,7 +203,7 @@
   -->
   <SniperTurret.generalRules.rulesStrings>
     <li>subject->keskin nişancı taretler</li>
-    <li>subject_story->kullanılmış radyoaktif uranyum güllelerini cepheden toplayarak savaş sonrası temizliğe öncülük etti</li>
+    <li>subject_story->kullanılmış radyoaktif uranyum kurşunlarını cepheden toplayarak savaş sonrası temizliğe öncülük etti</li>
     <li>subject_story->bir taretin bir saldırı mekanoitini deldiğini gördü ve bunun nasıl olduğunu anlama ihtiyacı hissetti</li>
     <li>subject_story->mühimmatın yoğunluğunun zırh üzerindeki etkilerini araştırdı</li>
     <li>subject_gerund->keskin nişancı taretler kurma</li>

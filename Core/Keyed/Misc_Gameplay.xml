@@ -1795,7 +1795,7 @@
   <Ritual>ritüel</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>Şurada gerçekleşir:</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>Şurada gerçekleşir</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>Herhangi bir {0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->

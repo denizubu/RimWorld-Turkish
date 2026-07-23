@@ -5,7 +5,7 @@
   <Bullet_MiniShotgun.label>pompalı atışı</Bullet_MiniShotgun.label>
   
   <!-- EN: slug -->
-  <Bullet_Slugthrower.label>gülle</Bullet_Slugthrower.label>
+  <Bullet_Slugthrower.label>kurşun</Bullet_Slugthrower.label>
   
   <!-- EN: spine -->
   <Bullet_Spiner.label>diken</Bullet_Spiner.label>
@@ -29,15 +29,15 @@
   <Gun_MiniShotgun.verbs.Verb_Shoot.label>mini pompalı</Gun_MiniShotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: slugthrower -->
-  <Gun_Slugthrower.label>gülleatar</Gun_Slugthrower.label>
+  <Gun_Slugthrower.label>kurşunatar</Gun_Slugthrower.label>
   <!-- EN: A compact single-shot slug thrower designed to be mounted on a light combat mechanoid. -->
-  <Gun_Slugthrower.description>Hafif bir savaş mekanoitine monte edilmek üzere tasarlanmış, kompakt, tek atışlı bir gülle atıcı.</Gun_Slugthrower.description>
+  <Gun_Slugthrower.description>Hafif bir savaş mekanoitine monte edilmek üzere tasarlanmış, kompakt, tek atışlı bir kurşun atıcı.</Gun_Slugthrower.description>
   <!-- EN: barrel -->
   <Gun_Slugthrower.tools.barrel-0.label>namlusu</Gun_Slugthrower.tools.barrel-0.label>
   <!-- EN: barrel -->
   <Gun_Slugthrower.tools.barrel-1.label>namlusu</Gun_Slugthrower.tools.barrel-1.label>
   <!-- EN: slugthrower -->
-  <Gun_Slugthrower.verbs.Verb_Shoot.label>gülleatar</Gun_Slugthrower.verbs.Verb_Shoot.label>
+  <Gun_Slugthrower.verbs.Verb_Shoot.label>kurşunatar</Gun_Slugthrower.verbs.Verb_Shoot.label>
   
   <!-- EN: spiner -->
   <Gun_Spiner.label>dikenatar</Gun_Spiner.label>

@@ -15,7 +15,7 @@
   <Bullet_MiniTurret.label>mini taret mermisi</Bullet_MiniTurret.label>
   
   <!-- EN: uranium slug -->
-  <Bullet_TurretSniper.label>uranyum gülle</Bullet_TurretSniper.label>
+  <Bullet_TurretSniper.label>uranyum kurşun</Bullet_TurretSniper.label>
   
   <!-- EN: autocannon -->
   <Gun_AutocannonTurret.label>oto-top</Gun_AutocannonTurret.label>
@@ -122,14 +122,14 @@
   <Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>soğuyor</Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>
   
   <!-- EN: uranium slug turret -->
-  <Turret_Sniper.label>uranyum gülle tareti</Turret_Sniper.label>
+  <Turret_Sniper.label>uranyum kurşun tareti</Turret_Sniper.label>
   <!-- EN: An armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
-  <Turret_Sniper.description>Zırh delici bir taret. Aşırı yoğun uranyum gülleleri, ağır zırhları delebilir ancak kullanımdan sonra yeni uranyum gülleler gerektirir. Uzun mesafelerde daha isabetlidir ve yakın mesafeye ateş edemez. Hasar aldığında patlayabilir.</Turret_Sniper.description>
+  <Turret_Sniper.description>Zırh delici bir taret. Aşırı yoğun uranyum kurşunları, ağır zırhları delebilir ancak kullanımdan sonra yeni uranyum kurşunları gerektirir. Uzun mesafelerde daha isabetlidir ve yakın mesafeye ateş edemez. Hasar aldığında patlayabilir.</Turret_Sniper.description>
   <!-- EN: Uranium slugs -->
-  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Uranyum gülleler</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Uranyum kurşunlar</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until rearm -->
   <Turret_Sniper.comps.CompRefuelable.fuelLabel>Namlu değişimine kadar atış</Turret_Sniper.comps.CompRefuelable.fuelLabel>
   <!-- EN: No slugs -->
-  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Mermi yok</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Kurşun yok</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
   
 </LanguageData>

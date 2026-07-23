@@ -272,9 +272,9 @@
   <AncientTV.description>Kırılmış bir televizyon seti. Ekranı kırık ve elektronik aksamı alınmış.</AncientTV.description>
   
   <!-- EN: broken uranium slug turret -->
-  <AncientUraniumSlugTurret.label>kırık uranyum fişekli taret</AncientUraniumSlugTurret.label>
+  <AncientUraniumSlugTurret.label>kırık uranyum kurşun tareti</AncientUraniumSlugTurret.label>
   <!-- EN: A heavy turret designed to fire uranium slugs. The mechanism is smashed and the ammo is depleted. -->
-  <AncientUraniumSlugTurret.description>Uranyum fişekleri atmak için tasarlanmış bir ağır taret. Mekanizması kırılmış ve mühimmatı tükenmiş.</AncientUraniumSlugTurret.description>
+  <AncientUraniumSlugTurret.description>Uranyum kurşunları atmak için tasarlanmış bir ağır taret. Mekanizması kırılmış ve mühimmatı tükenmiş.</AncientUraniumSlugTurret.description>
   
   <!-- EN: ancient wind turbine -->
   <AncientWindTurbineBody.label>antik rüzgâr türbini</AncientWindTurbineBody.label>
